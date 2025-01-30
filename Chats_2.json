@@ -1,0 +1,30 @@
+{
+    "chats":[
+        {
+            "id": "1",
+            "title": "Public 1",
+            "lastMessage": "Last Message ovo je devetnesti prvi",
+            "created": 1737461717,
+            "modified": 1737290917,
+            "isPublic": false,
+            "unreadCount": 5
+        },
+        {
+            "id": "2",
+            "title": "Public 2",
+            "lastMessage": "Last Message prosla godina 10 mejsec",
+            "created": 1737461717,
+            "modified": 1724071717,
+            "isPublic": false
+        },
+        {
+            "id": "3",
+            "title": "Public 3",
+            "lastMessage": "Last Message Jucer nekad",
+            "created": 1737411717,
+            "modified": 1737377317,
+            "isPublic": false,
+            "unreadCount": 9
+        }
+    ]
+}

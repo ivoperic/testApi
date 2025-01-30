@@ -1,0 +1,302 @@
+{
+    "messages":[
+        {
+            "id": "100",
+            "chatId": "1",
+            "senderId": "C6CE7D3D-8C64-4866-B96B-84C10E372C75",
+            "type": "image",
+            "created": 1738001206,
+            "modified": 1738001206,
+            "message": "",
+            "images":[
+                {
+                    "id":"F5AFF1B4-73AD-467B-A13E-58E1AABCBB78",
+                    "imageLocalFileName":"image_8FE0B469-7357-4C90-939D-046F9780FC99_1738056119.129765",
+                    "width": 4032,
+                    "height": 3024,
+                    "ar": 1.3333333333333333
+                }
+            ]
+        },
+        {
+            "id": "101",
+            "chatId": "1",
+            "senderId": "C6CE7D3D-8C64-4866-B96B-84C10E372C75",
+            "type": "image",
+            "created": 1738001216,
+            "modified": 1738001216,
+            "message": "Ovo je neki opis",
+            "images":[
+                {
+                    "id":"F5AFF1B4-73AD-467B-A13E-58E1AABCBB78",
+                    "imageLocalFileName":"image_58E7B7DE-0AF2-4F5A-BB39-315D55C06EF3_1738001126.1194081",
+                    "width": 1125,
+                    "height": 2436,
+                    "ar": 0.46182266009852219
+                },
+                {
+                    "id":"F5AFF1B4-73AD-467B-A13E-58E1AABCBB99",
+                    "imageLocalFileName":"image_8FE0B469-7357-4C90-939D-046F9780FC99_1738056119.129765",
+                    "width": 1125,
+                    "height": 2436,
+                    "ar": 0.46182266009852219
+                },
+                {
+                    "id":"F5AFF1B4-73AD-467B-A13E-58E1AAB7BB78",
+                    "imageLocalFileName":"image_8FE0B469-7357-4C90-939D-046F9780FC99_1738056119.129765",
+                    "width": 1125,
+                    "height": 2436,
+                    "ar": 0.46182266009852219
+                },
+            ]
+        },
+        {
+            "id": "201",
+            "chatId": "1",
+            "senderId": "C6CE7D3D-8C64-4866-B96B-84C10E372C75",
+            "type": "image",
+            "created": 1738001216,
+            "modified": 1738001216,
+            "message": "Ovo je neki opis",
+            "images":[
+                {
+                    "id":"F5AFF1BV-73AD-467B-A13E-58E1AABCBB78",
+                    "imageLocalFileName":"image_58E7B7DE-0AF2-4F5A-BB39-315D55C06EF3_1738001126.1194081",
+                    "width": 1125,
+                    "height": 2436,
+                    "ar": 0.46182266009852219
+                },
+                {
+                    "id":"F5AFFEB4-73AD-467B-A13E-58E1AABCBB99",
+                    "imageLocalFileName":"image_8FE0B469-7357-4C90-939D-046F9780FC99_1738056119.129765",
+                    "width": 1125,
+                    "height": 2436,
+                    "ar": 0.46182266009852219
+                }
+            ]
+        },
+        {
+            "id": "171",
+            "chatId": "1",
+            "senderId": "C6CE7D3D-8C64-4866-B96B-84C10E372C75",
+            "type": "image",
+            "created": 1738001316,
+            "modified": 1738001316,
+            "message": "Ovo je neki opis",
+            "images":[
+                {
+                    "id":"F5AFF1B4-73AD-467B-A13E-58E1AABCBB78",
+                    "imageLocalFileName":"image_58E7B7DE-0AF2-4F5A-BB39-315D55C06EF3_1738001126.1194081",
+                    "width": 1125,
+                    "height": 2436,
+                    "ar": 0.46182266009852219
+                },
+                {
+                    "id":"F5AFF1B4-73AD-467B-A13E-58E1AABCBB99",
+                    "imageLocalFileName":"image_8FE0B469-7357-4C90-939D-046F9780FC99_1738056119.129765",
+                    "width": 1125,
+                    "height": 2436,
+                    "ar": 0.46182266009852219
+                },
+                {
+                    "id":"F5AFF1B4-73AD-467B-A13E-58E1AAB7BB78",
+                    "imageLocalFileName":"image_8FE0B469-7357-4C90-939D-046F9780FC99_1738056119.129765",
+                    "width": 1125,
+                    "height": 2436,
+                    "ar": 0.46182266009852219
+                },
+                {
+                    "id":"F5AFF1B4-73AD-467B-A13E-A8E1AABCBB99",
+                    "imageLocalFileName":"image_58E7B7DE-0AF2-4F5A-BB39-315D55C06EF3_1738001126.1194081",
+                    "width": 1125,
+                    "height": 2436,
+                    "ar": 0.46182266009852219
+                },
+            ]
+        },
+        {
+            "id": "191",
+            "chatId": "1",
+            "senderId": "C6CE7D3D-8C64-4866-B96B-84C10E372C75",
+            "type": "image",
+            "created": 1738007316,
+            "modified": 1738007316,
+            "message": "Ovo je neki opis",
+            "images":[
+                {
+                    "id":"F5AFF1B4-73AD-467B-A13E-58E1AABCBB78",
+                    "imageLocalFileName":"image_58E7B7DE-0AF2-4F5A-BB39-315D55C06EF3_1738001126.1194081",
+                    "width": 1125,
+                    "height": 2436,
+                    "ar": 0.46182266009852219
+                },
+                {
+                    "id":"F5AFF1B4-73AD-467B-A13E-58E1AABCBB99",
+                    "imageLocalFileName":"image_8FE0B469-7357-4C90-939D-046F9780FC99_1738056119.129765",
+                    "width": 1125,
+                    "height": 2436,
+                    "ar": 0.46182266009852219
+                },
+                {
+                    "id":"F5AFF1B4-73AD-467B-A13E-58E1AAB7BB78",
+                    "imageLocalFileName":"image_8FE0B469-7357-4C90-939D-046F9780FC99_1738056119.129765",
+                    "width": 1125,
+                    "height": 2436,
+                    "ar": 0.46182266009852219
+                },
+                {
+                    "id":"F5AFF1B4-73AD-467B-A13E-A8E1AABCBB99",
+                    "imageLocalFileName":"image_58E7B7DE-0AF2-4F5A-BB39-315D55C06EF3_1738001126.1194081",
+                    "width": 1125,
+                    "height": 2436,
+                    "ar": 0.46182266009852219
+                },
+                {
+                    "id":"F5AFF1B4-73AD-467B-A13E-I8E1AABCBB99",
+                    "imageLocalFileName":"image_58E7B7DE-0AF2-4F5A-BB39-315D55C06EF3_1738001126.1194081",
+                    "width": 1125,
+                    "height": 2436,
+                    "ar": 0.46182266009852219
+                },
+            ]
+        },
+        {
+            "id": "102",
+            "chatId": "1",
+            "senderId": "C6CE7D3D-8C64-4866-B96B-84C10E372C75",
+            "type": "image",
+            "created": 1738074591,
+            "modified": 1738074591,
+            "message": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to ma",
+            "images":[
+                {
+                    "id":"F5AFF1B4-73AD-467B-A13E-58E1AABCBB78",
+                    "imageLocalFileName":"image_58E7B7DE-0AF2-4F5A-BB39-315D55C06EF3_1738001126.1194081",
+                    "width": 1125,
+                    "height": 2436,
+                    "ar": 0.46182266009852219
+                }
+            ]
+        },
+        {
+            "id": "1",
+            "chatId": "1",
+            "senderId": "1",
+            "type": "text",
+            "created": 1737636875,
+            "modified": 1737636875,
+            "message": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to ma"
+        },
+        {
+            "id": "2",
+            "chatId": "1",
+            "senderId": "1",
+            "type": "text",
+            "created": 1737635874,
+            "modified": 1737635874,
+            "message": "Lorem"
+        },
+        {
+            "id": "3",
+            "chatId": "1",
+            "senderId": "1",
+            "type": "text",
+            "created": 1737634873,
+            "modified": 1737634873,
+            "message": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. "
+        },
+        {
+            "id": "4",
+            "chatId": "1",
+            "senderId": "1",
+            "type": "text",
+            "created": 1737633872,
+            "modified": 1737633872,
+            "message": "Lorem ip"
+        },
+        {
+            "id": "41",
+            "chatId": "1",
+            "senderId": "1",
+            "type": "text",
+            "created": 1737632871,
+            "modified": 1737632871,
+            "message": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+        },
+        {
+            "id": "42",
+            "chatId": "1",
+            "senderId": "C6CE7D3D-8C64-4866-B96B-84C10E372C75",
+            "type": "text",
+            "created": 1737631870,
+            "modified": 1737631870,
+            "message": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+        },
+        {
+            "id": "5",
+            "chatId": "1",
+            "senderId": "C6CE7D3D-8C64-4866-B96B-84C10E372C75",
+            "type": "text",
+            "created": 1737558515,
+            "modified": 1737558515,
+            "message": "Lorem ip"
+        },
+        {
+            "id": "6",
+            "chatId": "1",
+            "senderId": "C6CE7D3D-8C64-4866-B96B-84C10E372C75",
+            "type": "text",
+            "created": 1737558515,
+            "modified": 1737558515,
+            "message": "Lorem ip"
+        },
+        {
+            "id": "7",
+            "chatId": "1",
+            "senderId": "1",
+            "type": "text",
+            "created": 1737558515,
+            "modified": 1737558515,
+            "message": "Lorem ip"
+        },
+        {
+            "id": "8",
+            "chatId": "1",
+            "senderId": "C6CE7D3D-8C64-4866-B96B-84C10E372C75",
+            "type": "text",
+            "created": 1737558515,
+            "modified": 1737558515,
+            "message": "L"
+        },
+        {
+            "id": "10",
+            "chatId": "1",
+            "senderId": "1",
+            "type": "text",
+            "created": 1737558515,
+            "modified": 1737558515,
+            "message": "Lorem ipLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+        },
+        {
+            "id": "11",
+            "chatId": "1",
+            "senderId": "C6CE7D3D-8C64-4866-B96B-84C10E372C75",
+            "type": "text",
+            "created": 1737482115,
+            "modified": 1737482115,
+            "message": "Lorem ipLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+        },
+        {
+            "id": "12",
+            "chatId": "1",
+            "senderId": "C6CE7D3D-8C64-4866-B96B-84C10E372C75",
+            "type": "text",
+            "created": 1731472115,
+            "modified": 1731472115,
+            "message": "Lorem ipLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+        },
+    ]
+}
+
+
+

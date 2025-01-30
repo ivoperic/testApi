@@ -1,0 +1,64 @@
+{
+    "chats":[
+        {
+            "id": "1",
+            "title": "Chat",
+            "lastMessage": "Last Message ovo je devetnesti prvi",
+            "created": 1737461717,
+            "modified": 1737290917,
+            "isPublic": false,
+            "unreadCount": 5
+        },
+        {
+            "id": "2",
+            "title": "Chat2",
+            "lastMessage": "Last Message prosla godina 10 mejsec",
+            "created": 1737461717,
+            "modified": 1724071717,
+            "isPublic": false
+        },
+        {
+            "id": "3",
+            "title": "Chat3",
+            "lastMessage": "Last Message Jucer nekad",
+            "created": 1737411717,
+            "modified": 1737377317,
+            "isPublic": false,
+            "unreadCount": 9
+        },
+        {
+            "id": "4",
+            "title": "Chat4",
+            "lastMessage": "Last Message nekad tamo 15.1",
+            "created": 1737461717,
+            "modified": 1736945317,
+            "isPublic": false,
+            "unreadCount": 1
+        },
+        {
+            "id": "5",
+            "title": "Chat5",
+            "lastMessage": "Last Message danas",
+            "created": 1737461717,
+            "modified": 1737446706,
+            "isPublic": false
+        },
+        {
+            "id": "6",
+            "title": "Chat6",
+            "lastMessage": "Last Message sadaaa",
+            "created": 1737461717,
+            "modified": 1737468306,
+            "isPublic": false
+        },
+        {
+            "id": "7",
+            "title": "Chat7",
+            "lastMessage": "Last Message osmi prvog",
+            "created": 1737461717,
+            "modified": 1736340517,
+            "isPublic": false,
+            "unreadCount": 17
+        },
+    ]
+}
