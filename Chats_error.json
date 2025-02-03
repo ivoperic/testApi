@@ -1,0 +1,6 @@
+{
+    "code": 999
+    "error"{
+        "message":"Invalid token, please scan qr code again to login."
+    }
+}
