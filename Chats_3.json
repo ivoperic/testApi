@@ -6,7 +6,7 @@
             "lastMessage": "Last Message ovo je devetnesti prvi",
             "created": 1737461717,
             "modified": 1737290917,
-            "isPublic": false,
+            "isPublic": true,
             "unreadCount": 5
         },
         {
@@ -15,7 +15,7 @@
             "lastMessage": "Last Message prosla godina 10 mejsec",
             "created": 1737461717,
             "modified": 1724071717,
-            "isPublic": false
+            "isPublic": true
         },
         {
             "id": "3",
@@ -23,7 +23,7 @@
             "lastMessage": "Last Message Jucer nekad",
             "created": 1737411717,
             "modified": 1737377317,
-            "isPublic": false,
+            "isPublic": true,
             "unreadCount": 9
         }
     ]
